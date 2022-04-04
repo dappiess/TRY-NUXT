@@ -1,0 +1,14 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\coba-nuxt\\\\pages\\\\home.vue",
+    "chunkName": "pages/home"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\coba-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
